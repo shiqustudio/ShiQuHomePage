@@ -101,10 +101,10 @@ def fetch_releases(oauth_token):
 #         "https://gist.githubusercontent.com/tw93/7854aac61f991ef4e7ae7b8440e4fdc6/raw/"
 #     )
 
-def fetch_weekly():
-    return httpx.get(
-        "https://raw.githubusercontent.com/tw93/weekly/main/RECENT.md"
-    )
+#def fetch_weekly():
+#    return httpx.get(
+#        "https://raw.githubusercontent.com/tw93/weekly/main/RECENT.md"
+#    )
 
 # def fetch_douban():
 #     entries = feedparser.parse("https://www.douban.com/feed/people/tangwei93/interests")["entries"]
