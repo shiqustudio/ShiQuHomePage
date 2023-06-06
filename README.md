@@ -59,3 +59,28 @@
 </tr>
 
 </table>
+
+
+### Hi there 👋
+
+<!--
+**yinggaozhen/yinggaozhen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yinggaozhen&theme=onedark&show_icons=true)](https://www.sgfoot.com)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yinggaozhen&theme=cobalt&layout=compact&show_icons=true&hide=javascript,html,php,Smarty)](https://www.sgfoot.com)
+<img src="https://github-profile-trophy.vercel.app/?username=yinggaozhen&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: 25px; margin-bottom: 20px;" />
+-->
+
+<img src="https://github-readme-stats.vercel.app/api?username=yinggaozhen&show_icons=true&theme=dark" alt="logo" align="left" height="160" width="400"
+style="float:left;margin-top: 25px; margin-bottom: 50px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yinggaozhen&theme=dark&layout=compact&show_icons=true&hide=php,javascript,html,scss,css,smarty" alt="logo" align="left" height="160" width="400"  style="margin-top: 25px; margin-bottom: 50px;float:left" />
