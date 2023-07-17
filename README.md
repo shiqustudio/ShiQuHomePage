@@ -140,7 +140,7 @@ style="float:left;margin-top: 25px; margin-bottom: 50px" />
 > wakatime 统计
 > https://github.com/anmol098/waka-readme-stats
 
-<table align="center" >
+<table align="center" width="960px">
 <tr>
 <td valign="top">
 
