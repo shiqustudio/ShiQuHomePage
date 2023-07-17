@@ -16,7 +16,7 @@
   <a href="https://space.bilibili.com/geekswg"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
   <a href="https://www.zhihu.com/people/geekswg"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
   <!-- 访客数统计徽标 -->
-  <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=geekswg" /> -->
+  <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=geekswg" />
   <img align="right" src="https://komarev.com/ghpvc/?username=gekswg&label=PROFILE+VIEWS">
 </div>-->
 
@@ -107,7 +107,7 @@ Here are some ideas to get you started:
 <img src="https://github-profile-trophy.vercel.app/?username=yinggaozhen&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: 25px; margin-bottom: 20px;" /
 -->
 
-## Stats
+### Stats
 
 <div align="center">
   <img title="profile-details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=geekswg&theme=github" />
@@ -128,7 +128,7 @@ Here are some ideas to get you started:
 style="float:left;margin-top: 25px; margin-bottom: 50px" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yinggaozhen&theme=dark&layout=compact&show_icons=true&hide=php,javascript,html,scss,css,smarty" alt="logo" align="left" height="160" width="400"  style="margin-top: 25px; margin-bottom: 50px;float:left" />
 
-# 🤝 Social
+### 🤝 Social
 
 <!-- BiliBili和CSDN数据 -->
 <div align="center">
@@ -216,7 +216,7 @@ HTML                     8 repos             ███████░░░░�
 Dockerfile               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
 PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-``
+```
 
 Last Updated on 16/07/2023 02:07:52 UTC
 <!--END_SECTION:waka-->
@@ -224,7 +224,7 @@ Last Updated on 16/07/2023 02:07:52 UTC
 </tr>
 </table>
 
-## Repobeats analytics
+### Repobeats analytics
 
 > Powered By [Repobeats](https://repobeats.axiom.co/)
 
