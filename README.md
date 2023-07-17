@@ -1,5 +1,12 @@
 ## Hello, World
 
+
+<!-- 动态打字效果 -->
+<div align="center" >
+    <a href="https://blog.funvip.live/"><img src="https://readme-typing-svg.herokuapp.com?font=Concert+One&pause=1000&center=true&vCenter=true&width=435&lines=Talk+is+Cheap%2CShow+me+the+Code;console.info(%22Hellow+World%22)" alt="Typing SVG" /></a>
+</div>
+
+
 <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi，我是 拾趣，后端工程师，也会一些 Swift / Rust / Python / Sketch，是 [妙言](https://miaoyan.app/) / [Pake](https://github.com/tw93/pake) / [潮流周刊](https://weekly.tw93.fun/) / [XRender](https://xrender.fun/) / [WeexUi](https://apache.github.io/incubator-weex-ui/) 的作者，信长期主义，喜欢开源，也很喜欢折腾，以下内容通过 <a href="https://github.com/shiqustudio/shiqustudio/actions" target="_blank">Actions</a> 自动更新：
 
 <table width="960px">
