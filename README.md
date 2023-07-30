@@ -7,23 +7,28 @@
 </div>
 
 
-<!-- 个人资料徽标 -->
-<!--<div align="center" >
-  <a href="https://geekswg.js.cool/"><img src="https://img.shields.io/badge/website-个人博客-blue"></a>&emsp;
-  <a href="https://twitter.com/geekswg"><img src="https://img.shields.io/badge/twitter-%E6%8E%A8%E7%89%B9-blue"></a>&emsp;
-  <a href="https://www.youtube.com/channel/UC1zFQPt_DccDr0pn60jzoQQ"><img src="https://img.shields.io/badge/youtube-%E6%B2%B9%E7%AE%A1-c32136"></a>&emsp;
-  <a href="https://blog.csdn.net/geekswg"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
-  <a href="https://space.bilibili.com/geekswg"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
-  <a href="https://www.zhihu.com/people/geekswg"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
-  <!-- 访客数统计徽标 -->
-  <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=geekswg" />
-  <img align="right" src="https://komarev.com/ghpvc/?username=gekswg&label=PROFILE+VIEWS">
-</div>-->
+ <!-- knock code pictures 敲代码的图片 -->
+  <img src="https://cdn.jsdelivr.net/gh/geekswg/geekswg/assets/images/coding.gif" /><br>
 
-<!-- 贪吃蛇代码贡献图 -->
-<!--<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/geekswg/geekswg/assets/github-contribution-grid-snake.svg" />
-</div>-->
+  <!-- profile logo 个人资料徽标 -->
+  <div align="center">
+    <a href="https://geekswg.js.cool/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
+    <a href="https://twitter.com/geekswg/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
+    <a href="https://www.youtube.com/@geekswg"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
+    <a href="https://box.sunguoqi.com/weixin_mp"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
+    <a href="https://space.bilibili.com/39865904/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <a href="https://blog.csdn.net/geekswg/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
+    <a href="https://www.zhihu.com/people/geekswg/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
+    <!-- visitor statistics logo 访客数统计徽标 -->
+    <img src="https://komarev.com/ghpvc/?username=geekswg&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+  </div>
+
+  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/geekswg/geekswg/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/geekswg/geekswg/profile-snake-contrib/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/geekswg/geekswg/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 
 <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi，我是 拾趣，后端工程师，也会一些 Swift / Rust / Python / Sketch，是 [妙言](https://miaoyan.app/) / [Pake](https://github.com/tw93/pake) / [潮流周刊](https://weekly.tw93.fun/) / [XRender](https://xrender.fun/) / [WeexUi](https://apache.github.io/incubator-weex-ui/) 的作者，信长期主义，喜欢开源，也很喜欢折腾，以下内容通过 <a href="https://github.com/shiqustudio/shiqustudio/actions" target="_blank">Actions</a> 自动更新：
